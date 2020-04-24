@@ -1,11 +1,9 @@
 # Applied Data Science Capstone
 
 ## Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods
-
-
-_Stella Metran_  
-_IBM Data Science Professional_
  
+Rounak Singh
+Data Science Enthusiast
 
 Now that you have been equipped with the skills and the tools to use location data to explore a geographical location, 
 over the course of two weeks, you will have the opportunity to be as creative as you want and come up with an idea to 
